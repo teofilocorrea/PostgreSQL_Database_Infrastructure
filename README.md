@@ -1,6 +1,6 @@
 # SQL Server Database Infrastructure
 
-![Infraestructura de Datos](docs/analysis_exploration_bronze_coffee_Salescount_SQL.png)
+![Infraestructura de Datos](docs/img_Readme_01_count_PostgreSQL.png)
 
 ## 📌 Descripción
 
