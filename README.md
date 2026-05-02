@@ -1,6 +1,6 @@
 # SQL Server Database Infrastructure
 
-![Infraestructura de Datos](docs/img_Readme_01_count_PostgreSQL.png)
+![Infraestructura de Datos](docs/infraestructura_portada.png)
 
 ## 📌 Descripción
 
