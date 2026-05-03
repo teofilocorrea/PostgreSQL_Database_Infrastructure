@@ -23,22 +23,24 @@ El enfoque es progresivo, permitiendo desarrollar fundamentos sólidos en ingeni
 ## 🧱 Estructura del proyecto
 
 ```text
-SQLServer_Database_Infrastructure/
+PostgreSQL_Database_Infrastructure/
 │
 ├── docs/
-│   ├── database_infrastructure_notes.md
-│   ├── schema_design_notes.md
-│   └── setup_validation_log.md
+│   ├── idempotent_scripts_guidelines.md
+│   ├── infraestructura_portada.png
+│   ├── infrastructure_design_decisions.md
+│   ├── medallion_architecture_notes.md
+│   ├── naming_conventions.md
+│   └── project_closure.md
+│
+├── outputs/
 │
 ├── sql/
 │   └── 00_setup/
-│       ├── 01_create_database_basic.sql
 │       ├── 02_create_schemas_basic.sql
-│       ├── 03_create_database_safe.sql
-│       └── 04_create_schemas_safe.sql
-│
-├── outputs/
-│   └── validation_results.md
+│       ├── 05_validate_setup.sql
+│       ├── 06_add_metadata.sql
+│       └── 07_check_metadata.sql
 │
 ├── .gitignore
 └── README.md
