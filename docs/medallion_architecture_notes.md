@@ -20,4 +20,4 @@ No se crean tablas en esta etapa.
 
 ## Siguiente fase
 
-La creación de tablas, carga de datos y transformaciones se trabajará en un segundo proyecto enfocado en modelado e ingesta de datos..
+La creación de tablas, carga de datos y transformaciones se trabajará en un segundo proyecto enfocado en modelado e ingesta de datos.
