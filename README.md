@@ -4,7 +4,7 @@
 
 ## 📌 Descripción
 
-Este proyecto tiene como objetivo construir la **infraestructura base de una plataforma de datos en SQL Server**, enfocándose en la creación de bases de datos, esquemas y scripts reutilizables.
+Este proyecto tiene como objetivo construir la **infraestructura base de una plataforma de datos en PostgreSQL**, enfocándose en la creación de bases de datos, esquemas y scripts reutilizables.
 
 El enfoque es progresivo, permitiendo desarrollar fundamentos sólidos en ingeniería de datos desde un nivel básico hasta intermedio.
 
