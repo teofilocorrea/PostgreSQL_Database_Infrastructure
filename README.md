@@ -1,4 +1,4 @@
-# SQL Server Database Infrastructure
+# PostgreSQL Database Infrastructure
 
 ![Infraestructura de Datos](docs/infraestructura_portada.png)
 
