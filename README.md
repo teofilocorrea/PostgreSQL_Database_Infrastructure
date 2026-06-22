@@ -51,6 +51,6 @@ PostgreSQL_Database_Infrastructure/
 ## 👤 Autor
 
 ### Teófilo Correa Rojas
-**Data Analytics | Data Engineering en formación**
+**Project Manager Digital | Data analytic**
 
 🔗 [LinkedIn](https://www.linkedin.com/in/te%C3%B3filo-correa-rojas/)
